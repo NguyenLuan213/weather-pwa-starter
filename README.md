@@ -94,4 +94,6 @@ Lưu ý:
 - “Only secure origins are allowed” khi bấm “Dùng vị trí hiện tại”: bạn đang mở qua `file://`. Hãy chạy qua `http://localhost` hoặc deploy HTTPS.
 - Vị trí hiển thị sai cấp xã/ấp: ứng dụng đã ưu tiên `forecast.city.name` và reverse geocoding theo cấp thành phố/tỉnh; nếu vẫn sai, thử bấm lại “Dùng vị trí hiện tại”.
 - Không thấy cập nhật giờ kế tiếp: đảm bảo hệ thống đã cấp quyền Location và có mạng; app sẽ tính “giờ kế tiếp” theo múi giờ địa điểm.
-##Link demo: https://weather-pwa-ten.vercel.app/
+## Link demo: 
+
+https://weather-pwa-ten.vercel.app/
